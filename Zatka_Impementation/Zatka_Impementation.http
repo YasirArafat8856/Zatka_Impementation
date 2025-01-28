@@ -1,0 +1,6 @@
+@Zatka_Impementation_HostAddress = http://localhost:5093
+
+GET {{Zatka_Impementation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
